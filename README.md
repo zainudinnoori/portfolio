@@ -1,6 +1,6 @@
 # Simple Portfolio Template - [Zainudin.me](https://zainudin.me)
 
-![Portfolio Website Preview](screenshot.png)
+![Portfolio Website Preview](assets/img/screenshot1.png)
 
 ## Introduction
 
