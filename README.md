@@ -21,10 +21,6 @@ To use this template for your own portfolio:
 * Customize the content in the HTML and SCSS files to reflect your own information.
 * Host your website using a platform of your choice, such as GitHub Pages, Netlify, or your web server.
 
-## License
-
-This portfolio website template is open-source and released under the [MIT License](LICENSE.md).
-
 ## Contributing
 
 If you'd like to contribute to this template, please feel free to fork the repository and make improvements. Your contributions are greatly appreciated!
